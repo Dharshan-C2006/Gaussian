@@ -55,6 +55,7 @@ for i in range(n):
 ```
 
 ## Output:
+<img width="1189" height="665" alt="image" src="https://github.com/user-attachments/assets/cc55c459-6e34-4f7e-9d7a-8ace1d5a348e" />
 
 <img width="1227" height="588" alt="image" src="https://github.com/user-attachments/assets/afb3035c-b7cb-45d4-b5b2-5a87c931b661" />
 
